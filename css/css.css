@@ -51,16 +51,19 @@ section {
   padding:10pt;
   width:330px;
   height:230px;
+  z-index: 100;
+  position: absolute;
 }
 
 .head-sm-block {
   position: absolute;
-  margin-left: 41%; 
-  margin-top: 15%;
+  margin: 0 auto; 
+  margin-left: 50%;
+  margin-top: 35vh;
   color: white;
   padding:10pt;
-  width:330px;
-  height:230px;
+  width:30px;
+  height:30px;
 }
 
 .wrap-img {
